@@ -1,0 +1,27 @@
+D:\VISUAL BASIC\Windows Application Form\BarCodeGeneratorVB\BarCodeGeneratorVB\bin\Debug\BarCodeGeneratorVB.exe.config
+D:\VISUAL BASIC\Windows Application Form\BarCodeGeneratorVB\BarCodeGeneratorVB\bin\Debug\BarCodeGeneratorVB.exe
+D:\VISUAL BASIC\Windows Application Form\BarCodeGeneratorVB\BarCodeGeneratorVB\bin\Debug\BarCodeGeneratorVB.pdb
+D:\VISUAL BASIC\Windows Application Form\BarCodeGeneratorVB\BarCodeGeneratorVB\bin\Debug\BarCodeGeneratorVB.xml
+D:\VISUAL BASIC\Windows Application Form\BarCodeGeneratorVB\BarCodeGeneratorVB\obj\Debug\BarCodeGeneratorVB.BarcodeGenerator.resources
+D:\VISUAL BASIC\Windows Application Form\BarCodeGeneratorVB\BarCodeGeneratorVB\obj\Debug\BarCodeGeneratorVB.Resources.resources
+D:\VISUAL BASIC\Windows Application Form\BarCodeGeneratorVB\BarCodeGeneratorVB\obj\Debug\BarCodeGeneratorVB.vbproj.GenerateResource.Cache
+D:\VISUAL BASIC\Windows Application Form\BarCodeGeneratorVB\BarCodeGeneratorVB\obj\Debug\BarCodeGeneratorVB.exe
+D:\VISUAL BASIC\Windows Application Form\BarCodeGeneratorVB\BarCodeGeneratorVB\obj\Debug\BarCodeGeneratorVB.xml
+D:\VISUAL BASIC\Windows Application Form\BarCodeGeneratorVB\BarCodeGeneratorVB\obj\Debug\BarCodeGeneratorVB.pdb
+D:\VISUAL BASIC\Windows Application Form\BarCodeGeneratorVB\BarCodeGeneratorVB\obj\Debug\BarCodeGeneratorVB.vbprojResolveAssemblyReference.cache
+D:\VISUAL BASIC\Windows Application Form\BarCodeGeneratorVB\BarCodeGeneratorVB\obj\Debug\BarCodeGeneratorVB.Form1.resources
+C:\Users\Administrator\Desktop\EAN 13\BarCodeGeneratorVB\BarCodeGeneratorVB\bin\Debug\BarCodeGeneratorVB.exe.config
+C:\Users\Administrator\Desktop\EAN 13\BarCodeGeneratorVB\BarCodeGeneratorVB\obj\Debug\BarCodeGeneratorVB.exe
+C:\Users\Administrator\Desktop\EAN 13\BarCodeGeneratorVB\BarCodeGeneratorVB\obj\Debug\BarCodeGeneratorVB.xml
+C:\Users\Administrator\Desktop\EAN 13\BarCodeGeneratorVB\BarCodeGeneratorVB\obj\Debug\BarCodeGeneratorVB.pdb
+C:\Users\Administrator\Desktop\EAN 13\BarCodeGeneratorVB\BarCodeGeneratorVB\bin\Debug\BarCodeGeneratorVB.exe
+C:\Users\Administrator\Desktop\EAN 13\BarCodeGeneratorVB\BarCodeGeneratorVB\bin\Debug\BarCodeGeneratorVB.pdb
+C:\Users\Administrator\Desktop\EAN 13\BarCodeGeneratorVB\BarCodeGeneratorVB\bin\Debug\BarCodeGeneratorVB.xml
+C:\Users\Administrator\Desktop\EAN 13\BarCodeGeneratorVB\BarCodeGeneratorVB\obj\Debug\BarCodeGeneratorVB.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EAN 13\BarCodeGeneratorVB\BarCodeGeneratorVB\obj\Debug\BarCodeGeneratorVB.Form1.resources
+C:\Users\Administrator\Desktop\EAN 13\BarCodeGeneratorVB\BarCodeGeneratorVB\obj\Debug\BarCodeGeneratorVB.Resources.resources
+C:\Users\Administrator\Desktop\EAN 13\BarCodeGeneratorVB\BarCodeGeneratorVB\obj\Debug\BarCodeGeneratorVB.vbproj.GenerateResource.Cache
+D:\vb.net final product\EAN 13\BarCodeGeneratorVB\BarCodeGeneratorVB\bin\Debug\BarCodeGeneratorVB.exe.config
+D:\vb.net final product\EAN 13\BarCodeGeneratorVB\BarCodeGeneratorVB\obj\Debug\BarCodeGeneratorVB.exe
+D:\vb.net final product\EAN 13\BarCodeGeneratorVB\BarCodeGeneratorVB\obj\Debug\BarCodeGeneratorVB.xml
+D:\vb.net final product\EAN 13\BarCodeGeneratorVB\BarCodeGeneratorVB\obj\Debug\BarCodeGeneratorVB.pdb
